@@ -1,0 +1,10 @@
+E:\Users\adrian\Desktop\Source Launcher\Updater\Compiled\Updater.exe.config
+E:\Users\adrian\Desktop\Source Launcher\Updater\obj\Debug\SkillartzHD.Form1.resources
+E:\Users\adrian\Desktop\Source Launcher\Updater\obj\Debug\SkillartzHD.Resources.resources
+E:\Users\adrian\Desktop\Source Launcher\Updater\obj\Debug\HLDS Updater.vbproj.GenerateResource.Cache
+E:\Users\adrian\Desktop\Source Launcher\Updater\Compiled\Updater.exe
+E:\Users\adrian\Desktop\Source Launcher\Updater\Compiled\Updater.pdb
+E:\Users\adrian\Desktop\Source Launcher\Updater\Compiled\Updater.xml
+E:\Users\adrian\Desktop\Source Launcher\Updater\obj\Debug\Updater.exe
+E:\Users\adrian\Desktop\Source Launcher\Updater\obj\Debug\Updater.xml
+E:\Users\adrian\Desktop\Source Launcher\Updater\obj\Debug\Updater.pdb
